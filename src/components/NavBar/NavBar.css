@@ -1,0 +1,18 @@
+#menu {
+  background-color: #67A6F3;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  margin-bottom: 20px;
+
+}
+
+#menu div {
+  margin: 30px;
+  vertical-align: baseline;
+  display: inline;
+}
+
+#title {
+  font-size: 50px;
+}

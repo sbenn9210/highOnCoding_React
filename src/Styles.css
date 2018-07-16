@@ -1,0 +1,27 @@
+#jumbotron {
+  background-color: #DDDEE0;
+  padding: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.post {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.social {
+  background-color: #f39017;
+  display: inline;
+  padding-left: 30px;
+}
+
+.comment {
+  background-color: #f39017;
+  color: white;
+  padding: 5px;
+}
+
+.heading {
+  color: #156fc4;
+  }
